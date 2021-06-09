@@ -4,6 +4,7 @@
   "description": "",
   "main": "rea.js",
   "scripts": {
+    "start": "node rea.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Teerent",
